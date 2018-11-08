@@ -12,6 +12,20 @@ git clone https://github.com/fracassi-marco/testing-strategies.git
 cd testing-strategies
 ```
 
+Run the application:
+
+```
+mvn spring-boot:run
+```
+
+Open browser:
+
+```
+http://localhost:8080/
+```
+
+Enjoy
+
 ### Prerequisites
 
 You must have Maven
