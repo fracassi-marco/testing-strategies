@@ -15,7 +15,7 @@ cd testing-strategies
 Run the application:
 
 ```
-mvn spring-boot:run
+mvn clean spring-boot:run
 ```
 
 Open browser:
@@ -33,7 +33,7 @@ You must have Maven
 ## Running the tests
 
 ```
-mvn test
+mvn clean test
 ```
 
 ## Built With
