@@ -1,7 +1,6 @@
 package loves
 
 import io.github.bonigarcia.wdm.WebDriverManager
-import org.assertj.core.api.Assertions.assertThat
 import org.assertj.core.api.Assumptions.assumeThat
 import org.junit.After
 import org.junit.Before
